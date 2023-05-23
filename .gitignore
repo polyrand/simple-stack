@@ -6,7 +6,7 @@
 !README.md
 !Makefile
 !app.py
-!requirements.txt
+!requirements.in
 !files/.gitkeep
 !bin/.gitkeep
 !LICENSE
