@@ -1,0 +1,15 @@
+email-validator
+fastapi
+httptools
+httpx
+itsdangerous
+jinja2
+pydantic
+python-dotenv
+python-multipart
+uvicorn
+uvloop
+watchfiles
+websockets
+# uvicorn[standard]  # Already includes uvloop and httptools
+
